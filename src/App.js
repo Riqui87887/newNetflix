@@ -21,6 +21,5 @@ function App() {
             <Row title="Documentaries!" fetchUrl={requests.fetchDocumentaries}/>
         </div>
     );
-
 }
 export default App;
