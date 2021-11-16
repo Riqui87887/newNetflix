@@ -11,6 +11,7 @@ function App() {
             <Nav/>
 
 
+
             <Banner/>
             <Row title="NETFLIX ORIGINALS1" fetchUrl={requests.fetchNetflixOriginals}
                  isLargeRow
